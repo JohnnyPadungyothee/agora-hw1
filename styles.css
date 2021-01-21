@@ -71,7 +71,7 @@ input{
 #flexContainer{
     display: flex;
     flex-direction: row;
-    padding-top: 65px;
+    padding-top: 65px; 
     padding-left: 180px;
 }
 
