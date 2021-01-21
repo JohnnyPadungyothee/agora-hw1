@@ -67,7 +67,7 @@ input{
     font-size: 1.25rem;
     border-radius: 10px;
 }
-
+ 
 #flexContainer{
     display: flex;
     flex-direction: row;
